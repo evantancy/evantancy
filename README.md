@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Evan
 
-I trained as a mechatronics engineer @ Monash University 🇦🇺, specializing in Robotics 🤖 & AI 🧠. 
+I trained as a mechatronics engineer @ Monash University 🇦🇺, specializing in Robotics 🤖 & AI 🧠. Recently, I interned at [AIDrivers](https://www.aidrivers.ai/).
 
 - 🔭 I’m currently working on [my portfolio website](https://evan-tan.github.io/)
 - 🌱 I’m currently learning data structures & algorithms, web3, cryptocurrencies, and machine learning.
