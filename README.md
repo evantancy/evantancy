@@ -2,7 +2,7 @@
 
 Trained as a mechatronics engineer @ Monash University, specializing in Robotics & AI. Recently, I interned at [AIDrivers](https://www.aidrivers.ai/) 🧠🚚.
 
-- 🔭 Working on [my portfolio website](https://evan-tan.github.io/)
+- 🔭 Working on [my portfolio website](https://evantancy.github.io/)
 - 🌱 Learning data structures & algorithms, web3, cryptocurrencies, and machine learning.
 - 💬 Ask me about: machine learning, computer vision, robotics.
 - 📫 How to reach me: tcyevan at gmail dot com
