@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every hour @ 45th minute.
     # see https://crontab.guru/
-    - cron: '45 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -25,4 +25,3 @@ jobs:
           SHOW_PROJECTS: False
           SHOW_TIMEZONE: True
           SHOW_EDITOR: False
-          
