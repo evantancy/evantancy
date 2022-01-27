@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
+    # see https://crontab.guru/
     - cron: "0 0 * * *"
 
 jobs:
@@ -11,9 +12,9 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: false
-          SHOW_TIME: false
+          SHOW_TIME: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
