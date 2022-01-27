@@ -5,7 +5,7 @@ on:
   schedule:
     # Runs at 12am UTC
     # see https://crontab.guru/
-    - cron: "0 0 * * *"
+    - cron: "0 16 * * *"
 
 jobs:
   update-readme:
