@@ -7,6 +7,10 @@ Trained as a mechatronics engineer @ Monash University, specializing in Robotics
 - 💬 Ask me about: machine learning, computer vision, robotics.
 - 📫 How to reach me: tcyevan at gmail dot com
 - 💻 [Projects](https://evantancy.github.io/projects) I've worked on.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **evan-tan/evan-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
