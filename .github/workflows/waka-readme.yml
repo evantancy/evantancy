@@ -2,7 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs every
+    # Runs every hour @ 45th minute.
+    # see https://crontab.guru/
     - cron: '45 * * * *'
   workflow_dispatch:
 jobs:
