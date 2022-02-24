@@ -1,8 +1,10 @@
 ### Hi there 👋 I am Evan
 
-Trained as a mechatronics engineer @ Monash University, specializing in Robotics & AI. Recently, I interned at [AIDrivers](https://www.aidrivers.ai/) 🧠🚚.
+Aspiring Solidity wizard who is trying to pivot into the web3 space!
 
-- 🌱 Learning smart contracts (Solidity & Rust), React, web3, cryptocurrencies, and machine learning.
+Trained as a mechatronics engineer @ Monash University, specializing in AI & Robotics and interned at [AIDrivers](https://www.aidrivers.ai/) 🧠🚚.
+
+- 🌱 Learning smart contracts (Solidity & Rust), React, web3, cryptocurrencies, and deep learning.
 - 🔭 Working on [my portfolio website](https://evantancy.github.io/).
 - 💬 Ask me about: machine learning, computer vision, robotics.
 - 📫 How to reach me: tcyevan at gmail dot com
