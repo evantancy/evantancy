@@ -1,12 +1,15 @@
 ### Hi there 👋 I am Evan
 
-Aspiring Solidity engineer who is trying to pivot into the web3 space. Trained as a mechatronics engineer @ Monash University, specializing in AI & Robotics and interned at [AIDrivers](https://www.aidrivers.ai/) 🧠🚚.
+Aspiring Solidity wizard who is trying to pivot into the web3 space. Trained as a mechatronics engineer @ Monash University, specializing in AI & Robotics and interned at [AIDrivers](https://www.aidrivers.ai/) 🧠🚚.
 
-- 🌱 Learning smart contracts, React, web3, cryptocurrencies, and deep learning.
-- 🔭 Working on [my portfolio website](https://evantancy.github.io/).
-- 💬 Ask me about: machine learning, computer vision, robotics.
+- 🌱 Learning smart contracts, React, web3, and machine learning.
+- 🔭 Working on [my portfolio website](https://evantancy.github.io/), 
+- 💬 Ask me about: smart contracts, machine learning, computer vision, robotics.
 - 📫 How to reach me: tcyevan at gmail dot com
 - 💻 [Projects](https://evantancy.github.io/projects) I've worked on.
+- ✔️ Recently completed
+  - [cryptozombies.io](https://cryptozombies.io/)
+  - [Random Words NFT](https://random-words-nft.vercel.app)
 
 <!--START_SECTION:waka-->
 
