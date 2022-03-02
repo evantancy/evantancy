@@ -3,7 +3,7 @@
 Aspiring Solidity wizard 🧙‍♂️
 
 - 🌱 Learning smart contracts, React, web3, and machine learning.
-- 🔭 Working on [my portfolio website](https://evantancy.github.io/), 
+- 🔭 Working on [my portfolio website](https://evantancy.github.io/), hacking through [ethernauts](https://ethernaut.openzeppelin.com/)
 - 💬 Ask me about: smart contracts, machine learning, computer vision, robotics.
 - 📫 How to reach me: tcyevan at gmail dot com
 - 💻 [Projects](https://evantancy.github.io/projects) I've worked on.
