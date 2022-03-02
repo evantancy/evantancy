@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Evan
 
-Aspiring Solidity wizard 🧙‍♂️
+Aspiring smart contract engineer 🧙‍♂️
 
 - 🌱 Learning smart contracts, React & web3, DeFi, and machine learning.
 - 🛠️ Currently hacking through [ethernaut](https://ethernaut.openzeppelin.com/)
