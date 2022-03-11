@@ -7,7 +7,8 @@
 - 👯 I’m looking to collab & build web3, DeFi, machine learning projects!
 - 💬 Ask me about: smart contracts, machine learning, computer vision, robotics.
 - 💻 [ML/AI Projects](https://evantancy.github.io/projects) I've worked on.
-- - 📫 How to reach me: tcyevan at gmail dot com
+- 📫 How to reach me: [email](mailto:tcyevan@gmail.com) [twitter](https://twitter.com/nat_nave)
+
 
 <!--
 **evan-tan/evan-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
