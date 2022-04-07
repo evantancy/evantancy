@@ -1,14 +1,15 @@
-### Hi there 👋 I am Evan
+# Hey, I'm Evan!
 
 🧙‍♂️
 
-- 🌱 Learning smart contracts, React & web3, DeFi, and machine learning.
-- 🛠️ Currently building an NFT marketplace
+- 🌱 Learning smart contracts, React, TypeScript, web3, DeFi, and machine learning.
+- 🛠️ Currently building an [NFT marketplace](https://github.com/evantancy/nft-marketplace)
 - 👯 I’m looking to collab & build web3, DeFi, machine learning projects!
 - 💬 Ask me about: smart contracts, machine learning, computer vision, robotics.
 - 💻 [ML/AI Projects](https://evantancy.github.io/projects) I've worked on.
-- 📫 How to reach me: [email](mailto:tcyevan@gmail.com) [twitter](https://twitter.com/nat_nave)
-
+- 📫 How to reach me: 
+  - [email](mailto:tcyevan@gmail.com) 
+  - [twitter](https://twitter.com/nat_nave)
 
 <!--
 **evan-tan/evan-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
