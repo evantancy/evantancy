@@ -8,7 +8,7 @@
 - 💬 Ask me about: smart contracts, machine learning, computer vision, robotics.
 - 💻 [ML/AI Projects](https://evantancy.github.io/projects) I've worked on.
 - 📫 How to reach me: 
-  - [email](mailto:tcyevan@gmail.com) 
+  - [email](mailto:bwr1vxftl@mozmail.com) 
   - [twitter](https://twitter.com/nat_nave)
 
 <!--
